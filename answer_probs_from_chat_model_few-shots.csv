@@ -1,0 +1,71 @@
+,uncertainty,access,observation,condition,option,option_prob
+0,low,10,0,0,certainly not,0.390061712
+5,low,8,2,0.25,certainly not,0.313985025
+10,low,9,3,0.33,certainly not,0.332618194
+15,low,8,4,0.5,certainly not,0.317410197
+20,low,9,6,0.67,certainly not,0.280335735
+25,low,8,6,0.75,certainly not,0.309090845
+30,low,10,10,1,certainly not,0.286282601
+35,high,2,0,0,certainly not,0.356883699
+40,high,4,1,0.25,certainly not,0.298958009
+45,high,3,1,0.33,certainly not,0.282967549
+50,high,4,2,0.5,certainly not,0.307062181
+55,high,3,2,0.67,certainly not,0.281248051
+60,high,4,3,0.75,certainly not,0.306032125
+65,high,2,2,1,certainly not,0.272826006
+1,low,10,0,0,probably not,0.006379079
+6,low,8,2,0.25,probably not,0.007471263
+11,low,9,3,0.33,probably not,0.007122404
+16,low,8,4,0.5,probably not,0.006957933
+21,low,9,6,0.67,probably not,0.006696687
+26,low,8,6,0.75,probably not,0.00726912
+31,low,10,10,1,probably not,0.004849397
+36,high,2,0,0,probably not,0.007067699
+41,high,4,1,0.25,probably not,0.005783394
+46,high,3,1,0.33,probably not,0.006251567
+51,high,4,2,0.5,probably not,0.006033714
+56,high,3,2,0.67,probably not,0.006410819
+61,high,4,3,0.75,probably not,0.006351494
+66,high,2,2,1,probably not,0.006416253
+2,low,10,0,0,possibly,0.594773085
+7,low,8,2,0.25,possibly,0.669919658
+12,low,9,3,0.33,possibly,0.651234809
+17,low,8,4,0.5,possibly,0.666728179
+22,low,9,6,0.67,possibly,0.70476396
+27,low,8,6,0.75,possibly,0.675116475
+32,low,10,10,1,possibly,0.703042214
+37,high,2,0,0,possibly,0.626350398
+42,high,4,1,0.25,possibly,0.687000058
+47,high,3,1,0.33,possibly,0.703092508
+52,high,4,2,0.5,possibly,0.678591292
+57,high,3,2,0.67,possibly,0.704300965
+62,high,4,3,0.75,possibly,0.678961944
+67,high,2,2,1,possibly,0.713207035
+3,low,10,0,0,probably,0.002204551
+8,low,8,2,0.25,probably,0.001874331
+13,low,9,3,0.33,probably,0.002539571
+18,low,8,4,0.5,probably,0.002367317
+23,low,9,6,0.67,probably,0.002058393
+28,low,8,6,0.75,probably,0.001956457
+33,low,10,10,1,probably,0.001444722
+38,high,2,0,0,probably,0.002348959
+43,high,4,1,0.25,probably,0.002429786
+48,high,3,1,0.33,probably,0.00190662
+53,high,4,2,0.5,probably,0.002418869
+58,high,3,2,0.67,probably,0.001970524
+63,high,4,3,0.75,probably,0.002546265
+68,high,2,2,1,probably,0.001754106
+4,low,10,0,0,certainly,0.006581573
+9,low,8,2,0.25,certainly,0.006749724
+14,low,9,3,0.33,certainly,0.006485022
+19,low,8,4,0.5,certainly,0.006536373
+24,low,9,6,0.67,certainly,0.006145225
+29,low,8,6,0.75,certainly,0.006567103
+34,low,10,10,1,certainly,0.004381065
+39,high,2,0,0,certainly,0.007349244
+44,high,4,1,0.25,certainly,0.005828753
+49,high,3,1,0.33,certainly,0.005781755
+54,high,4,2,0.5,certainly,0.005893943
+59,high,3,2,0.67,certainly,0.006069641
+64,high,4,3,0.75,certainly,0.006108172
+69,high,2,2,1,certainly,0.005796601

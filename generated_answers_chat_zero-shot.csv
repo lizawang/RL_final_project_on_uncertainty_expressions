@@ -1,0 +1,1401 @@
+,uncertainty,access,observation,condition,generated_answer,generated_answer_logprob
+17,low,10,0,0,others,-3.110919952
+23,low,10,0,0,others,-3.110919952
+33,low,10,0,0,others,-3.649982452
+35,low,10,0,0,others,-3.110919952
+51,low,10,0,0,others,-3.110919952
+54,low,10,0,0,others,-3.110919952
+75,low,10,0,0,others,-3.110919952
+76,low,10,0,0,others,-3.110919952
+95,low,10,0,0,others,-3.649982452
+100,low,8,2,0.25,others,-2.377905846
+101,low,8,2,0.25,others,-3.049780846
+104,low,8,2,0.25,others,-3.049780846
+112,low,8,2,0.25,others,-3.737280846
+119,low,8,2,0.25,others,-2.377905846
+122,low,8,2,0.25,others,-2.377905846
+143,low,8,2,0.25,others,-3.049780846
+160,low,8,2,0.25,others,-2.377905846
+163,low,8,2,0.25,others,-2.377905846
+176,low,8,2,0.25,others,-2.377905846
+183,low,8,2,0.25,others,-2.377905846
+194,low,8,2,0.25,others,-3.049780846
+207,low,9,3,0.33,others,-2.412640095
+212,low,9,3,0.33,others,-2.412640095
+222,low,9,3,0.33,others,-3.686077595
+225,low,9,3,0.33,others,-3.053265095
+229,low,9,3,0.33,others,-3.686077595
+232,low,9,3,0.33,others,-2.412640095
+247,low,9,3,0.33,others,-2.412640095
+248,low,9,3,0.33,others,-2.412640095
+258,low,9,3,0.33,others,-2.412640095
+260,low,9,3,0.33,others,-3.053265095
+277,low,9,3,0.33,others,-2.412640095
+285,low,9,3,0.33,others,-3.053265095
+311,low,8,4,0.5,others,-2.455056667
+312,low,8,4,0.5,others,-2.455056667
+326,low,8,4,0.5,others,-2.455056667
+337,low,8,4,0.5,others,-2.455056667
+340,low,8,4,0.5,others,-2.455056667
+352,low,8,4,0.5,others,-2.455056667
+357,low,8,4,0.5,others,-3.134744167
+359,low,8,4,0.5,others,-3.665994167
+365,low,8,4,0.5,others,-2.455056667
+368,low,8,4,0.5,others,-3.134744167
+371,low,8,4,0.5,others,-2.455056667
+373,low,8,4,0.5,others,-3.134744167
+376,low,8,4,0.5,others,-3.134744167
+388,low,8,4,0.5,others,-2.455056667
+397,low,8,4,0.5,others,-2.455056667
+398,low,8,4,0.5,others,-3.134744167
+399,low,8,4,0.5,others,-2.455056667
+411,low,9,6,0.67,others,-2.637699366
+421,low,9,6,0.67,others,-2.637699366
+422,low,9,6,0.67,others,-2.637699366
+433,low,9,6,0.67,others,-2.637699366
+440,low,9,6,0.67,others,-3.668949366
+441,low,9,6,0.67,others,-3.668949366
+443,low,9,6,0.67,others,-3.668949366
+444,low,9,6,0.67,others,-3.668949366
+456,low,9,6,0.67,others,-3.293949366
+484,low,9,6,0.67,others,-3.668949366
+486,low,9,6,0.67,others,-2.637699366
+491,low,9,6,0.67,others,-3.668949366
+494,low,9,6,0.67,others,-2.637699366
+503,low,8,6,0.75,others,-3.309896469
+508,low,8,6,0.75,others,-2.591146469
+520,low,8,6,0.75,others,-2.591146469
+522,low,8,6,0.75,others,-2.591146469
+531,low,8,6,0.75,others,-2.591146469
+536,low,8,6,0.75,others,-2.591146469
+553,low,8,6,0.75,others,-2.591146469
+557,low,8,6,0.75,others,-3.309896469
+566,low,8,6,0.75,others,-2.591146469
+577,low,8,6,0.75,others,-2.591146469
+578,low,8,6,0.75,others,-3.309896469
+579,low,8,6,0.75,others,-2.591146469
+582,low,8,6,0.75,others,-2.591146469
+604,low,10,10,1,others,-3.567342281
+617,low,10,10,1,others,-3.567342281
+629,low,10,10,1,others,-2.707967281
+633,low,10,10,1,others,-2.707967281
+636,low,10,10,1,others,-2.707967281
+647,low,10,10,1,others,-3.567342281
+654,low,10,10,1,others,-3.567342281
+657,low,10,10,1,others,-3.231404781
+660,low,10,10,1,others,-3.231404781
+663,low,10,10,1,others,-2.707967281
+695,low,10,10,1,others,-3.231404781
+699,low,10,10,1,others,-3.231404781
+705,high,2,0,0,others,-3.31377244
+711,high,2,0,0,others,-2.82939744
+714,high,2,0,0,others,-2.82939744
+715,high,2,0,0,others,-2.82939744
+734,high,2,0,0,others,-2.82939744
+746,high,2,0,0,others,-3.09502244
+762,high,2,0,0,others,-3.09502244
+788,high,2,0,0,others,-3.31377244
+791,high,2,0,0,others,-3.09502244
+800,high,4,1,0.25,others,-2.369152784
+808,high,4,1,0.25,others,-2.916027784
+811,high,4,1,0.25,others,-2.369152784
+812,high,4,1,0.25,others,-2.916027784
+814,high,4,1,0.25,others,-2.369152784
+816,high,4,1,0.25,others,-2.369152784
+826,high,4,1,0.25,others,-2.369152784
+834,high,4,1,0.25,others,-2.369152784
+835,high,4,1,0.25,others,-3.783215284
+846,high,4,1,0.25,others,-2.369152784
+856,high,4,1,0.25,others,-2.916027784
+865,high,4,1,0.25,others,-3.783215284
+871,high,4,1,0.25,others,-2.369152784
+876,high,4,1,0.25,others,-2.369152784
+879,high,4,1,0.25,others,-2.369152784
+882,high,4,1,0.25,others,-2.369152784
+883,high,4,1,0.25,others,-2.916027784
+886,high,4,1,0.25,others,-2.369152784
+888,high,4,1,0.25,others,-2.369152784
+894,high,4,1,0.25,others,-2.916027784
+897,high,4,1,0.25,others,-3.783215284
+898,high,4,1,0.25,others,-2.369152784
+907,high,3,1,0.33,others,-3.564739704
+918,high,3,1,0.33,others,-2.338177204
+927,high,3,1,0.33,others,-2.338177204
+929,high,3,1,0.33,others,-2.338177204
+930,high,3,1,0.33,others,-2.338177204
+941,high,3,1,0.33,others,-2.338177204
+945,high,3,1,0.33,others,-2.822552204
+950,high,3,1,0.33,others,-2.822552204
+953,high,3,1,0.33,others,-2.338177204
+960,high,3,1,0.33,others,-2.338177204
+962,high,3,1,0.33,others,-2.338177204
+967,high,3,1,0.33,others,-2.338177204
+968,high,3,1,0.33,others,-2.338177204
+983,high,3,1,0.33,others,-2.822552204
+987,high,3,1,0.33,others,-2.822552204
+1019,high,4,2,0.5,others,-2.246566296
+1030,high,4,2,0.5,others,-2.863753796
+1035,high,4,2,0.5,others,-2.246566296
+1036,high,4,2,0.5,others,-2.246566296
+1051,high,4,2,0.5,others,-2.246566296
+1053,high,4,2,0.5,others,-2.246566296
+1058,high,4,2,0.5,others,-3.527816296
+1062,high,4,2,0.5,others,-2.863753796
+1068,high,4,2,0.5,others,-2.246566296
+1071,high,4,2,0.5,others,-2.863753796
+1074,high,4,2,0.5,others,-2.246566296
+1078,high,4,2,0.5,others,-2.246566296
+1095,high,4,2,0.5,others,-2.246566296
+1097,high,4,2,0.5,others,-3.527816296
+1103,high,3,2,0.67,others,-3.349447727
+1105,high,3,2,0.67,others,-2.271322727
+1107,high,3,2,0.67,others,-2.849447727
+1108,high,3,2,0.67,others,-2.271322727
+1116,high,3,2,0.67,others,-2.271322727
+1118,high,3,2,0.67,others,-2.271322727
+1119,high,3,2,0.67,others,-2.849447727
+1121,high,3,2,0.67,others,-2.271322727
+1124,high,3,2,0.67,others,-2.271322727
+1130,high,3,2,0.67,others,-3.349447727
+1144,high,3,2,0.67,others,-2.271322727
+1148,high,3,2,0.67,others,-2.271322727
+1151,high,3,2,0.67,others,-2.271322727
+1162,high,3,2,0.67,others,-2.849447727
+1164,high,3,2,0.67,others,-2.849447727
+1166,high,3,2,0.67,others,-2.271322727
+1167,high,3,2,0.67,others,-2.271322727
+1168,high,3,2,0.67,others,-2.271322727
+1170,high,3,2,0.67,others,-2.271322727
+1178,high,3,2,0.67,others,-2.849447727
+1193,high,3,2,0.67,others,-2.271322727
+1198,high,3,2,0.67,others,-2.271322727
+1208,high,4,3,0.75,others,-2.360640526
+1211,high,4,3,0.75,others,-2.360640526
+1219,high,4,3,0.75,others,-3.040328026
+1227,high,4,3,0.75,others,-2.360640526
+1231,high,4,3,0.75,others,-2.360640526
+1235,high,4,3,0.75,others,-3.040328026
+1241,high,4,3,0.75,others,-2.360640526
+1256,high,4,3,0.75,others,-2.360640526
+1258,high,4,3,0.75,others,-2.360640526
+1268,high,4,3,0.75,others,-2.360640526
+1270,high,4,3,0.75,others,-2.360640526
+1272,high,4,3,0.75,others,-3.040328026
+1275,high,4,3,0.75,others,-2.360640526
+1279,high,4,3,0.75,others,-3.040328026
+1288,high,4,3,0.75,others,-2.360640526
+1293,high,4,3,0.75,others,-3.040328026
+1295,high,4,3,0.75,others,-3.040328026
+1302,high,2,2,1,others,-2.197705507
+1309,high,2,2,1,others,-2.197705507
+1312,high,2,2,1,others,-2.197705507
+1321,high,2,2,1,others,-2.197705507
+1324,high,2,2,1,others,-2.197705507
+1326,high,2,2,1,others,-2.197705507
+1328,high,2,2,1,others,-2.728955507
+1330,high,2,2,1,others,-2.197705507
+1334,high,2,2,1,others,-2.197705507
+1351,high,2,2,1,others,-2.197705507
+1355,high,2,2,1,others,-2.728955507
+1360,high,2,2,1,others,-2.728955507
+1365,high,2,2,1,others,-2.197705507
+1367,high,2,2,1,others,-3.346143007
+1372,high,2,2,1,others,-2.197705507
+1376,high,2,2,1,others,-2.197705507
+1379,high,2,2,1,others,-3.346143007
+1380,high,2,2,1,others,-2.728955507
+1381,high,2,2,1,others,-2.728955507
+1386,high,2,2,1,others,-2.728955507
+1394,high,2,2,1,others,-2.197705507
+1396,high,2,2,1,others,-2.197705507
+1397,high,2,2,1,others,-2.197705507
+10,low,10,0,0,certainly not,-2.314044952
+13,low,10,0,0,certainly not,-2.314044952
+16,low,10,0,0,certainly not,-2.314044952
+25,low,10,0,0,certainly not,-2.314044952
+28,low,10,0,0,certainly not,-2.314044952
+39,low,10,0,0,certainly not,-2.314044952
+48,low,10,0,0,certainly not,-2.314044952
+58,low,10,0,0,certainly not,-2.314044952
+66,low,10,0,0,certainly not,-2.314044952
+68,low,10,0,0,certainly not,-2.314044952
+102,low,8,2,0.25,certainly not,-2.174780846
+115,low,8,2,0.25,certainly not,-2.174780846
+116,low,8,2,0.25,certainly not,-2.174780846
+125,low,8,2,0.25,certainly not,-2.174780846
+142,low,8,2,0.25,certainly not,-2.174780846
+145,low,8,2,0.25,certainly not,-2.174780846
+153,low,8,2,0.25,certainly not,-2.174780846
+179,low,8,2,0.25,certainly not,-2.174780846
+187,low,8,2,0.25,certainly not,-2.174780846
+189,low,8,2,0.25,certainly not,-2.174780846
+235,low,9,3,0.33,certainly not,-2.115765095
+241,low,9,3,0.33,certainly not,-2.115765095
+244,low,9,3,0.33,certainly not,-2.115765095
+259,low,9,3,0.33,certainly not,-2.115765095
+261,low,9,3,0.33,certainly not,-2.115765095
+264,low,9,3,0.33,certainly not,-2.115765095
+265,low,9,3,0.33,certainly not,-2.115765095
+276,low,9,3,0.33,certainly not,-2.115765095
+279,low,9,3,0.33,certainly not,-2.115765095
+286,low,9,3,0.33,certainly not,-2.115765095
+287,low,9,3,0.33,certainly not,-2.115765095
+293,low,9,3,0.33,certainly not,-2.115765095
+302,low,8,4,0.5,certainly not,-2.189431667
+304,low,8,4,0.5,certainly not,-2.189431667
+306,low,8,4,0.5,certainly not,-2.189431667
+313,low,8,4,0.5,certainly not,-2.189431667
+315,low,8,4,0.5,certainly not,-2.189431667
+369,low,8,4,0.5,certainly not,-2.189431667
+390,low,8,4,0.5,certainly not,-2.189431667
+393,low,8,4,0.5,certainly not,-2.189431667
+400,low,9,6,0.67,certainly not,-2.106449366
+402,low,9,6,0.67,certainly not,-2.106449366
+410,low,9,6,0.67,certainly not,-2.106449366
+435,low,9,6,0.67,certainly not,-2.106449366
+445,low,9,6,0.67,certainly not,-2.106449366
+460,low,9,6,0.67,certainly not,-2.106449366
+464,low,9,6,0.67,certainly not,-2.106449366
+465,low,9,6,0.67,certainly not,-2.106449366
+473,low,9,6,0.67,certainly not,-2.106449366
+474,low,9,6,0.67,certainly not,-2.106449366
+492,low,9,6,0.67,certainly not,-2.106449366
+523,low,8,6,0.75,certainly not,-2.153646469
+528,low,8,6,0.75,certainly not,-2.153646469
+530,low,8,6,0.75,certainly not,-2.153646469
+545,low,8,6,0.75,certainly not,-2.153646469
+549,low,8,6,0.75,certainly not,-2.153646469
+556,low,8,6,0.75,certainly not,-2.153646469
+562,low,8,6,0.75,certainly not,-2.153646469
+583,low,8,6,0.75,certainly not,-2.153646469
+587,low,8,6,0.75,certainly not,-2.153646469
+592,low,8,6,0.75,certainly not,-2.153646469
+603,low,10,10,1,certainly not,-2.192342281
+619,low,10,10,1,certainly not,-2.192342281
+620,low,10,10,1,certainly not,-2.192342281
+631,low,10,10,1,certainly not,-2.192342281
+637,low,10,10,1,certainly not,-2.192342281
+649,low,10,10,1,certainly not,-2.192342281
+658,low,10,10,1,certainly not,-2.192342281
+664,low,10,10,1,certainly not,-2.192342281
+665,low,10,10,1,certainly not,-2.192342281
+687,low,10,10,1,certainly not,-2.192342281
+688,low,10,10,1,certainly not,-2.192342281
+702,high,2,0,0,certainly not,-2.56377244
+722,high,2,0,0,certainly not,-2.56377244
+737,high,2,0,0,certainly not,-2.56377244
+745,high,2,0,0,certainly not,-2.56377244
+753,high,2,0,0,certainly not,-2.56377244
+767,high,2,0,0,certainly not,-2.56377244
+773,high,2,0,0,certainly not,-2.56377244
+776,high,2,0,0,certainly not,-2.56377244
+777,high,2,0,0,certainly not,-2.56377244
+782,high,2,0,0,certainly not,-2.56377244
+790,high,2,0,0,certainly not,-2.56377244
+813,high,4,1,0.25,certainly not,-2.244152784
+817,high,4,1,0.25,certainly not,-2.244152784
+819,high,4,1,0.25,certainly not,-2.244152784
+824,high,4,1,0.25,certainly not,-2.244152784
+827,high,4,1,0.25,certainly not,-2.244152784
+832,high,4,1,0.25,certainly not,-2.244152784
+838,high,4,1,0.25,certainly not,-2.244152784
+839,high,4,1,0.25,certainly not,-2.244152784
+840,high,4,1,0.25,certainly not,-2.244152784
+855,high,4,1,0.25,certainly not,-2.244152784
+861,high,4,1,0.25,certainly not,-2.244152784
+870,high,4,1,0.25,certainly not,-2.244152784
+887,high,4,1,0.25,certainly not,-2.244152784
+892,high,4,1,0.25,certainly not,-2.244152784
+900,high,3,1,0.33,certainly not,-2.244427204
+903,high,3,1,0.33,certainly not,-2.244427204
+905,high,3,1,0.33,certainly not,-2.244427204
+913,high,3,1,0.33,certainly not,-2.244427204
+921,high,3,1,0.33,certainly not,-2.244427204
+922,high,3,1,0.33,certainly not,-2.244427204
+939,high,3,1,0.33,certainly not,-2.244427204
+940,high,3,1,0.33,certainly not,-2.244427204
+942,high,3,1,0.33,certainly not,-2.244427204
+957,high,3,1,0.33,certainly not,-2.244427204
+965,high,3,1,0.33,certainly not,-2.244427204
+966,high,3,1,0.33,certainly not,-2.244427204
+970,high,3,1,0.33,certainly not,-2.244427204
+972,high,3,1,0.33,certainly not,-2.244427204
+990,high,3,1,0.33,certainly not,-2.244427204
+1003,high,4,2,0.5,certainly not,-2.215316296
+1018,high,4,2,0.5,certainly not,-2.215316296
+1023,high,4,2,0.5,certainly not,-2.215316296
+1025,high,4,2,0.5,certainly not,-2.215316296
+1029,high,4,2,0.5,certainly not,-2.215316296
+1045,high,4,2,0.5,certainly not,-2.215316296
+1060,high,4,2,0.5,certainly not,-2.215316296
+1069,high,4,2,0.5,certainly not,-2.215316296
+1077,high,4,2,0.5,certainly not,-2.215316296
+1084,high,4,2,0.5,certainly not,-2.215316296
+1091,high,4,2,0.5,certainly not,-2.215316296
+1096,high,4,2,0.5,certainly not,-2.215316296
+1101,high,3,2,0.67,certainly not,-2.193197727
+1111,high,3,2,0.67,certainly not,-2.193197727
+1115,high,3,2,0.67,certainly not,-2.193197727
+1122,high,3,2,0.67,certainly not,-2.193197727
+1133,high,3,2,0.67,certainly not,-2.193197727
+1136,high,3,2,0.67,certainly not,-2.193197727
+1150,high,3,2,0.67,certainly not,-2.193197727
+1156,high,3,2,0.67,certainly not,-2.193197727
+1161,high,3,2,0.67,certainly not,-2.193197727
+1163,high,3,2,0.67,certainly not,-2.193197727
+1176,high,3,2,0.67,certainly not,-2.193197727
+1181,high,3,2,0.67,certainly not,-2.193197727
+1186,high,3,2,0.67,certainly not,-2.193197727
+1196,high,3,2,0.67,certainly not,-2.193197727
+1202,high,4,3,0.75,certainly not,-2.157515526
+1204,high,4,3,0.75,certainly not,-2.157515526
+1207,high,4,3,0.75,certainly not,-2.157515526
+1217,high,4,3,0.75,certainly not,-2.157515526
+1244,high,4,3,0.75,certainly not,-2.157515526
+1250,high,4,3,0.75,certainly not,-2.157515526
+1257,high,4,3,0.75,certainly not,-2.157515526
+1263,high,4,3,0.75,certainly not,-2.157515526
+1287,high,4,3,0.75,certainly not,-2.157515526
+1290,high,4,3,0.75,certainly not,-2.157515526
+1300,high,2,2,1,certainly not,-2.307080507
+1306,high,2,2,1,certainly not,-2.307080507
+1315,high,2,2,1,certainly not,-2.307080507
+1317,high,2,2,1,certainly not,-2.307080507
+1318,high,2,2,1,certainly not,-2.307080507
+1340,high,2,2,1,certainly not,-2.307080507
+1341,high,2,2,1,certainly not,-2.307080507
+1362,high,2,2,1,certainly not,-2.307080507
+1378,high,2,2,1,certainly not,-2.307080507
+1391,high,2,2,1,certainly not,-2.307080507
+1,low,10,0,0,probably not,-0.376544893
+3,low,10,0,0,probably not,-0.376544893
+4,low,10,0,0,probably not,-0.376544893
+5,low,10,0,0,probably not,-0.376544893
+6,low,10,0,0,probably not,-0.376544893
+8,low,10,0,0,probably not,-0.376544893
+9,low,10,0,0,probably not,-0.376544893
+11,low,10,0,0,probably not,-0.376544893
+12,low,10,0,0,probably not,-0.376544893
+14,low,10,0,0,probably not,-0.376544893
+15,low,10,0,0,probably not,-0.376544893
+18,low,10,0,0,probably not,-0.376544893
+19,low,10,0,0,probably not,-0.376544893
+20,low,10,0,0,probably not,-0.376544893
+21,low,10,0,0,probably not,-0.376544893
+22,low,10,0,0,probably not,-0.376544893
+24,low,10,0,0,probably not,-0.376544893
+26,low,10,0,0,probably not,-0.376544893
+27,low,10,0,0,probably not,-0.376544893
+29,low,10,0,0,probably not,-0.376544893
+30,low,10,0,0,probably not,-0.376544893
+31,low,10,0,0,probably not,-0.376544893
+32,low,10,0,0,probably not,-0.376544893
+34,low,10,0,0,probably not,-0.376544893
+36,low,10,0,0,probably not,-0.376544893
+37,low,10,0,0,probably not,-0.376544893
+38,low,10,0,0,probably not,-0.376544893
+40,low,10,0,0,probably not,-0.376544893
+43,low,10,0,0,probably not,-0.376544893
+44,low,10,0,0,probably not,-0.376544893
+45,low,10,0,0,probably not,-0.376544893
+46,low,10,0,0,probably not,-0.376544893
+47,low,10,0,0,probably not,-0.376544893
+49,low,10,0,0,probably not,-0.376544893
+50,low,10,0,0,probably not,-0.376544893
+52,low,10,0,0,probably not,-0.376544893
+53,low,10,0,0,probably not,-0.376544893
+56,low,10,0,0,probably not,-0.376544893
+57,low,10,0,0,probably not,-0.376544893
+59,low,10,0,0,probably not,-0.376544893
+60,low,10,0,0,probably not,-0.376544893
+61,low,10,0,0,probably not,-0.376544893
+62,low,10,0,0,probably not,-0.376544893
+63,low,10,0,0,probably not,-0.376544893
+64,low,10,0,0,probably not,-0.376544893
+65,low,10,0,0,probably not,-0.376544893
+69,low,10,0,0,probably not,-0.376544893
+70,low,10,0,0,probably not,-0.376544893
+71,low,10,0,0,probably not,-0.376544893
+74,low,10,0,0,probably not,-0.376544893
+77,low,10,0,0,probably not,-0.376544893
+78,low,10,0,0,probably not,-0.376544893
+79,low,10,0,0,probably not,-0.376544893
+80,low,10,0,0,probably not,-0.376544893
+81,low,10,0,0,probably not,-0.376544893
+83,low,10,0,0,probably not,-0.376544893
+84,low,10,0,0,probably not,-0.376544893
+85,low,10,0,0,probably not,-0.376544893
+86,low,10,0,0,probably not,-0.376544893
+87,low,10,0,0,probably not,-0.376544893
+89,low,10,0,0,probably not,-0.376544893
+90,low,10,0,0,probably not,-0.376544893
+91,low,10,0,0,probably not,-0.376544893
+92,low,10,0,0,probably not,-0.376544893
+93,low,10,0,0,probably not,-0.376544893
+94,low,10,0,0,probably not,-0.376544893
+96,low,10,0,0,probably not,-0.376544893
+97,low,10,0,0,probably not,-0.376544893
+98,low,10,0,0,probably not,-0.376544893
+103,low,8,2,0.25,probably not,-0.596655965
+105,low,8,2,0.25,probably not,-0.596655965
+108,low,8,2,0.25,probably not,-0.596655965
+109,low,8,2,0.25,probably not,-0.596655965
+110,low,8,2,0.25,probably not,-0.596655965
+111,low,8,2,0.25,probably not,-0.596655965
+114,low,8,2,0.25,probably not,-0.596655965
+117,low,8,2,0.25,probably not,-0.596655965
+118,low,8,2,0.25,probably not,-0.596655965
+120,low,8,2,0.25,probably not,-0.596655965
+121,low,8,2,0.25,probably not,-0.596655965
+123,low,8,2,0.25,probably not,-0.596655965
+124,low,8,2,0.25,probably not,-0.596655965
+126,low,8,2,0.25,probably not,-0.596655965
+127,low,8,2,0.25,probably not,-0.596655965
+128,low,8,2,0.25,probably not,-0.596655965
+130,low,8,2,0.25,probably not,-0.596655965
+131,low,8,2,0.25,probably not,-0.596655965
+132,low,8,2,0.25,probably not,-0.596655965
+133,low,8,2,0.25,probably not,-0.596655965
+135,low,8,2,0.25,probably not,-0.596655965
+136,low,8,2,0.25,probably not,-0.596655965
+137,low,8,2,0.25,probably not,-0.596655965
+138,low,8,2,0.25,probably not,-0.596655965
+140,low,8,2,0.25,probably not,-0.596655965
+141,low,8,2,0.25,probably not,-0.596655965
+144,low,8,2,0.25,probably not,-0.596655965
+146,low,8,2,0.25,probably not,-0.596655965
+147,low,8,2,0.25,probably not,-0.596655965
+148,low,8,2,0.25,probably not,-0.596655965
+149,low,8,2,0.25,probably not,-0.596655965
+151,low,8,2,0.25,probably not,-0.596655965
+155,low,8,2,0.25,probably not,-0.596655965
+157,low,8,2,0.25,probably not,-0.596655965
+158,low,8,2,0.25,probably not,-0.596655965
+161,low,8,2,0.25,probably not,-0.596655965
+164,low,8,2,0.25,probably not,-0.596655965
+165,low,8,2,0.25,probably not,-0.596655965
+166,low,8,2,0.25,probably not,-0.596655965
+169,low,8,2,0.25,probably not,-0.596655965
+170,low,8,2,0.25,probably not,-0.596655965
+171,low,8,2,0.25,probably not,-0.596655965
+172,low,8,2,0.25,probably not,-0.596655965
+173,low,8,2,0.25,probably not,-0.596655965
+174,low,8,2,0.25,probably not,-0.596655965
+177,low,8,2,0.25,probably not,-0.596655965
+178,low,8,2,0.25,probably not,-0.596655965
+180,low,8,2,0.25,probably not,-0.596655965
+181,low,8,2,0.25,probably not,-0.596655965
+182,low,8,2,0.25,probably not,-0.596655965
+184,low,8,2,0.25,probably not,-0.596655965
+185,low,8,2,0.25,probably not,-0.596655965
+188,low,8,2,0.25,probably not,-0.596655965
+190,low,8,2,0.25,probably not,-0.596655965
+191,low,8,2,0.25,probably not,-0.596655965
+192,low,8,2,0.25,probably not,-0.596655965
+195,low,8,2,0.25,probably not,-0.596655965
+196,low,8,2,0.25,probably not,-0.596655965
+198,low,8,2,0.25,probably not,-0.596655965
+199,low,8,2,0.25,probably not,-0.596655965
+200,low,9,3,0.33,probably not,-0.568889976
+201,low,9,3,0.33,probably not,-0.568889976
+202,low,9,3,0.33,probably not,-0.568889976
+203,low,9,3,0.33,probably not,-0.568889976
+204,low,9,3,0.33,probably not,-0.568889976
+205,low,9,3,0.33,probably not,-0.568889976
+209,low,9,3,0.33,probably not,-0.568889976
+210,low,9,3,0.33,probably not,-0.568889976
+211,low,9,3,0.33,probably not,-0.568889976
+213,low,9,3,0.33,probably not,-0.568889976
+215,low,9,3,0.33,probably not,-0.568889976
+216,low,9,3,0.33,probably not,-0.568889976
+217,low,9,3,0.33,probably not,-0.568889976
+219,low,9,3,0.33,probably not,-0.568889976
+220,low,9,3,0.33,probably not,-0.568889976
+221,low,9,3,0.33,probably not,-0.568889976
+223,low,9,3,0.33,probably not,-0.568889976
+226,low,9,3,0.33,probably not,-0.568889976
+227,low,9,3,0.33,probably not,-0.568889976
+228,low,9,3,0.33,probably not,-0.568889976
+230,low,9,3,0.33,probably not,-0.568889976
+231,low,9,3,0.33,probably not,-0.568889976
+234,low,9,3,0.33,probably not,-0.568889976
+237,low,9,3,0.33,probably not,-0.568889976
+238,low,9,3,0.33,probably not,-0.568889976
+240,low,9,3,0.33,probably not,-0.568889976
+242,low,9,3,0.33,probably not,-0.568889976
+243,low,9,3,0.33,probably not,-0.568889976
+245,low,9,3,0.33,probably not,-0.568889976
+249,low,9,3,0.33,probably not,-0.568889976
+250,low,9,3,0.33,probably not,-0.568889976
+251,low,9,3,0.33,probably not,-0.568889976
+252,low,9,3,0.33,probably not,-0.568889976
+253,low,9,3,0.33,probably not,-0.568889976
+255,low,9,3,0.33,probably not,-0.568889976
+256,low,9,3,0.33,probably not,-0.568889976
+257,low,9,3,0.33,probably not,-0.568889976
+262,low,9,3,0.33,probably not,-0.568889976
+263,low,9,3,0.33,probably not,-0.568889976
+266,low,9,3,0.33,probably not,-0.568889976
+267,low,9,3,0.33,probably not,-0.568889976
+269,low,9,3,0.33,probably not,-0.568889976
+270,low,9,3,0.33,probably not,-0.568889976
+272,low,9,3,0.33,probably not,-0.568889976
+273,low,9,3,0.33,probably not,-0.568889976
+274,low,9,3,0.33,probably not,-0.568889976
+275,low,9,3,0.33,probably not,-0.568889976
+280,low,9,3,0.33,probably not,-0.568889976
+281,low,9,3,0.33,probably not,-0.568889976
+284,low,9,3,0.33,probably not,-0.568889976
+288,low,9,3,0.33,probably not,-0.568889976
+290,low,9,3,0.33,probably not,-0.568889976
+294,low,9,3,0.33,probably not,-0.568889976
+295,low,9,3,0.33,probably not,-0.568889976
+296,low,9,3,0.33,probably not,-0.568889976
+297,low,9,3,0.33,probably not,-0.568889976
+298,low,9,3,0.33,probably not,-0.568889976
+299,low,9,3,0.33,probably not,-0.568889976
+300,low,8,4,0.5,probably not,-0.564431548
+303,low,8,4,0.5,probably not,-0.564431548
+305,low,8,4,0.5,probably not,-0.564431548
+307,low,8,4,0.5,probably not,-0.564431548
+308,low,8,4,0.5,probably not,-0.564431548
+310,low,8,4,0.5,probably not,-0.564431548
+316,low,8,4,0.5,probably not,-0.564431548
+317,low,8,4,0.5,probably not,-0.564431548
+319,low,8,4,0.5,probably not,-0.564431548
+320,low,8,4,0.5,probably not,-0.564431548
+322,low,8,4,0.5,probably not,-0.564431548
+323,low,8,4,0.5,probably not,-0.564431548
+324,low,8,4,0.5,probably not,-0.564431548
+325,low,8,4,0.5,probably not,-0.564431548
+327,low,8,4,0.5,probably not,-0.564431548
+328,low,8,4,0.5,probably not,-0.564431548
+329,low,8,4,0.5,probably not,-0.564431548
+330,low,8,4,0.5,probably not,-0.564431548
+332,low,8,4,0.5,probably not,-0.564431548
+333,low,8,4,0.5,probably not,-0.564431548
+334,low,8,4,0.5,probably not,-0.564431548
+335,low,8,4,0.5,probably not,-0.564431548
+336,low,8,4,0.5,probably not,-0.564431548
+338,low,8,4,0.5,probably not,-0.564431548
+339,low,8,4,0.5,probably not,-0.564431548
+341,low,8,4,0.5,probably not,-0.564431548
+343,low,8,4,0.5,probably not,-0.564431548
+344,low,8,4,0.5,probably not,-0.564431548
+345,low,8,4,0.5,probably not,-0.564431548
+347,low,8,4,0.5,probably not,-0.564431548
+348,low,8,4,0.5,probably not,-0.564431548
+349,low,8,4,0.5,probably not,-0.564431548
+350,low,8,4,0.5,probably not,-0.564431548
+351,low,8,4,0.5,probably not,-0.564431548
+353,low,8,4,0.5,probably not,-0.564431548
+354,low,8,4,0.5,probably not,-0.564431548
+358,low,8,4,0.5,probably not,-0.564431548
+360,low,8,4,0.5,probably not,-0.564431548
+362,low,8,4,0.5,probably not,-0.564431548
+363,low,8,4,0.5,probably not,-0.564431548
+364,low,8,4,0.5,probably not,-0.564431548
+366,low,8,4,0.5,probably not,-0.564431548
+367,low,8,4,0.5,probably not,-0.564431548
+370,low,8,4,0.5,probably not,-0.564431548
+372,low,8,4,0.5,probably not,-0.564431548
+374,low,8,4,0.5,probably not,-0.564431548
+375,low,8,4,0.5,probably not,-0.564431548
+377,low,8,4,0.5,probably not,-0.564431548
+378,low,8,4,0.5,probably not,-0.564431548
+379,low,8,4,0.5,probably not,-0.564431548
+380,low,8,4,0.5,probably not,-0.564431548
+381,low,8,4,0.5,probably not,-0.564431548
+383,low,8,4,0.5,probably not,-0.564431548
+384,low,8,4,0.5,probably not,-0.564431548
+385,low,8,4,0.5,probably not,-0.564431548
+386,low,8,4,0.5,probably not,-0.564431548
+391,low,8,4,0.5,probably not,-0.564431548
+392,low,8,4,0.5,probably not,-0.564431548
+395,low,8,4,0.5,probably not,-0.564431548
+401,low,9,6,0.67,probably not,-0.512699306
+403,low,9,6,0.67,probably not,-0.512699306
+404,low,9,6,0.67,probably not,-0.512699306
+405,low,9,6,0.67,probably not,-0.512699306
+409,low,9,6,0.67,probably not,-0.512699306
+412,low,9,6,0.67,probably not,-0.512699306
+413,low,9,6,0.67,probably not,-0.512699306
+414,low,9,6,0.67,probably not,-0.512699306
+415,low,9,6,0.67,probably not,-0.512699306
+416,low,9,6,0.67,probably not,-0.512699306
+418,low,9,6,0.67,probably not,-0.512699306
+419,low,9,6,0.67,probably not,-0.512699306
+420,low,9,6,0.67,probably not,-0.512699306
+424,low,9,6,0.67,probably not,-0.512699306
+425,low,9,6,0.67,probably not,-0.512699306
+426,low,9,6,0.67,probably not,-0.512699306
+428,low,9,6,0.67,probably not,-0.512699306
+429,low,9,6,0.67,probably not,-0.512699306
+431,low,9,6,0.67,probably not,-0.512699306
+432,low,9,6,0.67,probably not,-0.512699306
+434,low,9,6,0.67,probably not,-0.512699306
+436,low,9,6,0.67,probably not,-0.512699306
+437,low,9,6,0.67,probably not,-0.512699306
+438,low,9,6,0.67,probably not,-0.512699306
+439,low,9,6,0.67,probably not,-0.512699306
+442,low,9,6,0.67,probably not,-0.512699306
+446,low,9,6,0.67,probably not,-0.512699306
+447,low,9,6,0.67,probably not,-0.512699306
+448,low,9,6,0.67,probably not,-0.512699306
+449,low,9,6,0.67,probably not,-0.512699306
+450,low,9,6,0.67,probably not,-0.512699306
+451,low,9,6,0.67,probably not,-0.512699306
+452,low,9,6,0.67,probably not,-0.512699306
+453,low,9,6,0.67,probably not,-0.512699306
+454,low,9,6,0.67,probably not,-0.512699306
+455,low,9,6,0.67,probably not,-0.512699306
+457,low,9,6,0.67,probably not,-0.512699306
+459,low,9,6,0.67,probably not,-0.512699306
+461,low,9,6,0.67,probably not,-0.512699306
+462,low,9,6,0.67,probably not,-0.512699306
+463,low,9,6,0.67,probably not,-0.512699306
+466,low,9,6,0.67,probably not,-0.512699306
+467,low,9,6,0.67,probably not,-0.512699306
+468,low,9,6,0.67,probably not,-0.512699306
+472,low,9,6,0.67,probably not,-0.512699306
+475,low,9,6,0.67,probably not,-0.512699306
+477,low,9,6,0.67,probably not,-0.512699306
+478,low,9,6,0.67,probably not,-0.512699306
+479,low,9,6,0.67,probably not,-0.512699306
+480,low,9,6,0.67,probably not,-0.512699306
+482,low,9,6,0.67,probably not,-0.512699306
+483,low,9,6,0.67,probably not,-0.512699306
+485,low,9,6,0.67,probably not,-0.512699306
+487,low,9,6,0.67,probably not,-0.512699306
+488,low,9,6,0.67,probably not,-0.512699306
+489,low,9,6,0.67,probably not,-0.512699306
+490,low,9,6,0.67,probably not,-0.512699306
+493,low,9,6,0.67,probably not,-0.512699306
+495,low,9,6,0.67,probably not,-0.512699306
+496,low,9,6,0.67,probably not,-0.512699306
+497,low,9,6,0.67,probably not,-0.512699306
+498,low,9,6,0.67,probably not,-0.512699306
+499,low,9,6,0.67,probably not,-0.512699306
+500,low,8,6,0.75,probably not,-0.52864641
+501,low,8,6,0.75,probably not,-0.52864641
+502,low,8,6,0.75,probably not,-0.52864641
+504,low,8,6,0.75,probably not,-0.52864641
+506,low,8,6,0.75,probably not,-0.52864641
+509,low,8,6,0.75,probably not,-0.52864641
+510,low,8,6,0.75,probably not,-0.52864641
+511,low,8,6,0.75,probably not,-0.52864641
+513,low,8,6,0.75,probably not,-0.52864641
+514,low,8,6,0.75,probably not,-0.52864641
+516,low,8,6,0.75,probably not,-0.52864641
+517,low,8,6,0.75,probably not,-0.52864641
+518,low,8,6,0.75,probably not,-0.52864641
+519,low,8,6,0.75,probably not,-0.52864641
+524,low,8,6,0.75,probably not,-0.52864641
+525,low,8,6,0.75,probably not,-0.52864641
+527,low,8,6,0.75,probably not,-0.52864641
+529,low,8,6,0.75,probably not,-0.52864641
+532,low,8,6,0.75,probably not,-0.52864641
+533,low,8,6,0.75,probably not,-0.52864641
+534,low,8,6,0.75,probably not,-0.52864641
+535,low,8,6,0.75,probably not,-0.52864641
+538,low,8,6,0.75,probably not,-0.52864641
+539,low,8,6,0.75,probably not,-0.52864641
+541,low,8,6,0.75,probably not,-0.52864641
+542,low,8,6,0.75,probably not,-0.52864641
+544,low,8,6,0.75,probably not,-0.52864641
+547,low,8,6,0.75,probably not,-0.52864641
+550,low,8,6,0.75,probably not,-0.52864641
+551,low,8,6,0.75,probably not,-0.52864641
+552,low,8,6,0.75,probably not,-0.52864641
+554,low,8,6,0.75,probably not,-0.52864641
+558,low,8,6,0.75,probably not,-0.52864641
+559,low,8,6,0.75,probably not,-0.52864641
+561,low,8,6,0.75,probably not,-0.52864641
+563,low,8,6,0.75,probably not,-0.52864641
+564,low,8,6,0.75,probably not,-0.52864641
+565,low,8,6,0.75,probably not,-0.52864641
+567,low,8,6,0.75,probably not,-0.52864641
+568,low,8,6,0.75,probably not,-0.52864641
+569,low,8,6,0.75,probably not,-0.52864641
+570,low,8,6,0.75,probably not,-0.52864641
+573,low,8,6,0.75,probably not,-0.52864641
+575,low,8,6,0.75,probably not,-0.52864641
+576,low,8,6,0.75,probably not,-0.52864641
+580,low,8,6,0.75,probably not,-0.52864641
+584,low,8,6,0.75,probably not,-0.52864641
+585,low,8,6,0.75,probably not,-0.52864641
+586,low,8,6,0.75,probably not,-0.52864641
+589,low,8,6,0.75,probably not,-0.52864641
+590,low,8,6,0.75,probably not,-0.52864641
+591,low,8,6,0.75,probably not,-0.52864641
+593,low,8,6,0.75,probably not,-0.52864641
+594,low,8,6,0.75,probably not,-0.52864641
+595,low,8,6,0.75,probably not,-0.52864641
+596,low,8,6,0.75,probably not,-0.52864641
+597,low,8,6,0.75,probably not,-0.52864641
+599,low,8,6,0.75,probably not,-0.52864641
+600,low,10,10,1,probably not,-0.661092401
+602,low,10,10,1,probably not,-0.661092401
+606,low,10,10,1,probably not,-0.661092401
+607,low,10,10,1,probably not,-0.661092401
+609,low,10,10,1,probably not,-0.661092401
+611,low,10,10,1,probably not,-0.661092401
+614,low,10,10,1,probably not,-0.661092401
+616,low,10,10,1,probably not,-0.661092401
+618,low,10,10,1,probably not,-0.661092401
+621,low,10,10,1,probably not,-0.661092401
+622,low,10,10,1,probably not,-0.661092401
+624,low,10,10,1,probably not,-0.661092401
+626,low,10,10,1,probably not,-0.661092401
+627,low,10,10,1,probably not,-0.661092401
+628,low,10,10,1,probably not,-0.661092401
+632,low,10,10,1,probably not,-0.661092401
+634,low,10,10,1,probably not,-0.661092401
+639,low,10,10,1,probably not,-0.661092401
+641,low,10,10,1,probably not,-0.661092401
+643,low,10,10,1,probably not,-0.661092401
+648,low,10,10,1,probably not,-0.661092401
+652,low,10,10,1,probably not,-0.661092401
+653,low,10,10,1,probably not,-0.661092401
+655,low,10,10,1,probably not,-0.661092401
+661,low,10,10,1,probably not,-0.661092401
+666,low,10,10,1,probably not,-0.661092401
+667,low,10,10,1,probably not,-0.661092401
+668,low,10,10,1,probably not,-0.661092401
+670,low,10,10,1,probably not,-0.661092401
+671,low,10,10,1,probably not,-0.661092401
+672,low,10,10,1,probably not,-0.661092401
+674,low,10,10,1,probably not,-0.661092401
+676,low,10,10,1,probably not,-0.661092401
+678,low,10,10,1,probably not,-0.661092401
+680,low,10,10,1,probably not,-0.661092401
+681,low,10,10,1,probably not,-0.661092401
+684,low,10,10,1,probably not,-0.661092401
+685,low,10,10,1,probably not,-0.661092401
+689,low,10,10,1,probably not,-0.661092401
+691,low,10,10,1,probably not,-0.661092401
+692,low,10,10,1,probably not,-0.661092401
+693,low,10,10,1,probably not,-0.661092401
+694,low,10,10,1,probably not,-0.661092401
+696,low,10,10,1,probably not,-0.661092401
+697,low,10,10,1,probably not,-0.661092401
+700,high,2,0,0,probably not,-0.36064747
+701,high,2,0,0,probably not,-0.36064747
+703,high,2,0,0,probably not,-0.36064747
+704,high,2,0,0,probably not,-0.36064747
+706,high,2,0,0,probably not,-0.36064747
+707,high,2,0,0,probably not,-0.36064747
+708,high,2,0,0,probably not,-0.36064747
+709,high,2,0,0,probably not,-0.36064747
+710,high,2,0,0,probably not,-0.36064747
+713,high,2,0,0,probably not,-0.36064747
+716,high,2,0,0,probably not,-0.36064747
+718,high,2,0,0,probably not,-0.36064747
+719,high,2,0,0,probably not,-0.36064747
+720,high,2,0,0,probably not,-0.36064747
+721,high,2,0,0,probably not,-0.36064747
+723,high,2,0,0,probably not,-0.36064747
+724,high,2,0,0,probably not,-0.36064747
+725,high,2,0,0,probably not,-0.36064747
+726,high,2,0,0,probably not,-0.36064747
+727,high,2,0,0,probably not,-0.36064747
+728,high,2,0,0,probably not,-0.36064747
+729,high,2,0,0,probably not,-0.36064747
+730,high,2,0,0,probably not,-0.36064747
+731,high,2,0,0,probably not,-0.36064747
+732,high,2,0,0,probably not,-0.36064747
+733,high,2,0,0,probably not,-0.36064747
+735,high,2,0,0,probably not,-0.36064747
+736,high,2,0,0,probably not,-0.36064747
+738,high,2,0,0,probably not,-0.36064747
+739,high,2,0,0,probably not,-0.36064747
+740,high,2,0,0,probably not,-0.36064747
+741,high,2,0,0,probably not,-0.36064747
+742,high,2,0,0,probably not,-0.36064747
+743,high,2,0,0,probably not,-0.36064747
+744,high,2,0,0,probably not,-0.36064747
+747,high,2,0,0,probably not,-0.36064747
+748,high,2,0,0,probably not,-0.36064747
+749,high,2,0,0,probably not,-0.36064747
+750,high,2,0,0,probably not,-0.36064747
+751,high,2,0,0,probably not,-0.36064747
+752,high,2,0,0,probably not,-0.36064747
+754,high,2,0,0,probably not,-0.36064747
+755,high,2,0,0,probably not,-0.36064747
+757,high,2,0,0,probably not,-0.36064747
+758,high,2,0,0,probably not,-0.36064747
+760,high,2,0,0,probably not,-0.36064747
+763,high,2,0,0,probably not,-0.36064747
+764,high,2,0,0,probably not,-0.36064747
+765,high,2,0,0,probably not,-0.36064747
+766,high,2,0,0,probably not,-0.36064747
+769,high,2,0,0,probably not,-0.36064747
+770,high,2,0,0,probably not,-0.36064747
+771,high,2,0,0,probably not,-0.36064747
+772,high,2,0,0,probably not,-0.36064747
+774,high,2,0,0,probably not,-0.36064747
+775,high,2,0,0,probably not,-0.36064747
+778,high,2,0,0,probably not,-0.36064747
+779,high,2,0,0,probably not,-0.36064747
+780,high,2,0,0,probably not,-0.36064747
+781,high,2,0,0,probably not,-0.36064747
+783,high,2,0,0,probably not,-0.36064747
+785,high,2,0,0,probably not,-0.36064747
+786,high,2,0,0,probably not,-0.36064747
+787,high,2,0,0,probably not,-0.36064747
+789,high,2,0,0,probably not,-0.36064747
+792,high,2,0,0,probably not,-0.36064747
+793,high,2,0,0,probably not,-0.36064747
+794,high,2,0,0,probably not,-0.36064747
+795,high,2,0,0,probably not,-0.36064747
+797,high,2,0,0,probably not,-0.36064747
+798,high,2,0,0,probably not,-0.36064747
+799,high,2,0,0,probably not,-0.36064747
+801,high,4,1,0.25,probably not,-0.650402844
+802,high,4,1,0.25,probably not,-0.650402844
+803,high,4,1,0.25,probably not,-0.650402844
+805,high,4,1,0.25,probably not,-0.650402844
+807,high,4,1,0.25,probably not,-0.650402844
+809,high,4,1,0.25,probably not,-0.650402844
+810,high,4,1,0.25,probably not,-0.650402844
+815,high,4,1,0.25,probably not,-0.650402844
+818,high,4,1,0.25,probably not,-0.650402844
+822,high,4,1,0.25,probably not,-0.650402844
+823,high,4,1,0.25,probably not,-0.650402844
+831,high,4,1,0.25,probably not,-0.650402844
+833,high,4,1,0.25,probably not,-0.650402844
+836,high,4,1,0.25,probably not,-0.650402844
+837,high,4,1,0.25,probably not,-0.650402844
+842,high,4,1,0.25,probably not,-0.650402844
+843,high,4,1,0.25,probably not,-0.650402844
+844,high,4,1,0.25,probably not,-0.650402844
+847,high,4,1,0.25,probably not,-0.650402844
+849,high,4,1,0.25,probably not,-0.650402844
+850,high,4,1,0.25,probably not,-0.650402844
+851,high,4,1,0.25,probably not,-0.650402844
+853,high,4,1,0.25,probably not,-0.650402844
+854,high,4,1,0.25,probably not,-0.650402844
+857,high,4,1,0.25,probably not,-0.650402844
+858,high,4,1,0.25,probably not,-0.650402844
+859,high,4,1,0.25,probably not,-0.650402844
+860,high,4,1,0.25,probably not,-0.650402844
+862,high,4,1,0.25,probably not,-0.650402844
+864,high,4,1,0.25,probably not,-0.650402844
+866,high,4,1,0.25,probably not,-0.650402844
+868,high,4,1,0.25,probably not,-0.650402844
+869,high,4,1,0.25,probably not,-0.650402844
+872,high,4,1,0.25,probably not,-0.650402844
+873,high,4,1,0.25,probably not,-0.650402844
+874,high,4,1,0.25,probably not,-0.650402844
+877,high,4,1,0.25,probably not,-0.650402844
+880,high,4,1,0.25,probably not,-0.650402844
+881,high,4,1,0.25,probably not,-0.650402844
+884,high,4,1,0.25,probably not,-0.650402844
+885,high,4,1,0.25,probably not,-0.650402844
+889,high,4,1,0.25,probably not,-0.650402844
+890,high,4,1,0.25,probably not,-0.650402844
+891,high,4,1,0.25,probably not,-0.650402844
+893,high,4,1,0.25,probably not,-0.650402844
+895,high,4,1,0.25,probably not,-0.650402844
+896,high,4,1,0.25,probably not,-0.650402844
+899,high,4,1,0.25,probably not,-0.650402844
+901,high,3,1,0.33,probably not,-0.681927085
+906,high,3,1,0.33,probably not,-0.681927085
+908,high,3,1,0.33,probably not,-0.681927085
+915,high,3,1,0.33,probably not,-0.681927085
+916,high,3,1,0.33,probably not,-0.681927085
+917,high,3,1,0.33,probably not,-0.681927085
+923,high,3,1,0.33,probably not,-0.681927085
+925,high,3,1,0.33,probably not,-0.681927085
+926,high,3,1,0.33,probably not,-0.681927085
+931,high,3,1,0.33,probably not,-0.681927085
+932,high,3,1,0.33,probably not,-0.681927085
+933,high,3,1,0.33,probably not,-0.681927085
+934,high,3,1,0.33,probably not,-0.681927085
+935,high,3,1,0.33,probably not,-0.681927085
+936,high,3,1,0.33,probably not,-0.681927085
+937,high,3,1,0.33,probably not,-0.681927085
+944,high,3,1,0.33,probably not,-0.681927085
+948,high,3,1,0.33,probably not,-0.681927085
+949,high,3,1,0.33,probably not,-0.681927085
+952,high,3,1,0.33,probably not,-0.681927085
+954,high,3,1,0.33,probably not,-0.681927085
+955,high,3,1,0.33,probably not,-0.681927085
+956,high,3,1,0.33,probably not,-0.681927085
+958,high,3,1,0.33,probably not,-0.681927085
+959,high,3,1,0.33,probably not,-0.681927085
+963,high,3,1,0.33,probably not,-0.681927085
+969,high,3,1,0.33,probably not,-0.681927085
+971,high,3,1,0.33,probably not,-0.681927085
+975,high,3,1,0.33,probably not,-0.681927085
+979,high,3,1,0.33,probably not,-0.681927085
+981,high,3,1,0.33,probably not,-0.681927085
+982,high,3,1,0.33,probably not,-0.681927085
+984,high,3,1,0.33,probably not,-0.681927085
+985,high,3,1,0.33,probably not,-0.681927085
+986,high,3,1,0.33,probably not,-0.681927085
+988,high,3,1,0.33,probably not,-0.681927085
+992,high,3,1,0.33,probably not,-0.681927085
+994,high,3,1,0.33,probably not,-0.681927085
+995,high,3,1,0.33,probably not,-0.681927085
+996,high,3,1,0.33,probably not,-0.681927085
+997,high,3,1,0.33,probably not,-0.681927085
+998,high,3,1,0.33,probably not,-0.681927085
+999,high,3,1,0.33,probably not,-0.681927085
+1001,high,4,2,0.5,probably not,-0.652816355
+1002,high,4,2,0.5,probably not,-0.652816355
+1005,high,4,2,0.5,probably not,-0.652816355
+1006,high,4,2,0.5,probably not,-0.652816355
+1007,high,4,2,0.5,probably not,-0.652816355
+1008,high,4,2,0.5,probably not,-0.652816355
+1010,high,4,2,0.5,probably not,-0.652816355
+1011,high,4,2,0.5,probably not,-0.652816355
+1012,high,4,2,0.5,probably not,-0.652816355
+1014,high,4,2,0.5,probably not,-0.652816355
+1015,high,4,2,0.5,probably not,-0.652816355
+1017,high,4,2,0.5,probably not,-0.652816355
+1020,high,4,2,0.5,probably not,-0.652816355
+1021,high,4,2,0.5,probably not,-0.652816355
+1022,high,4,2,0.5,probably not,-0.652816355
+1024,high,4,2,0.5,probably not,-0.652816355
+1026,high,4,2,0.5,probably not,-0.652816355
+1031,high,4,2,0.5,probably not,-0.652816355
+1032,high,4,2,0.5,probably not,-0.652816355
+1033,high,4,2,0.5,probably not,-0.652816355
+1034,high,4,2,0.5,probably not,-0.652816355
+1037,high,4,2,0.5,probably not,-0.652816355
+1038,high,4,2,0.5,probably not,-0.652816355
+1039,high,4,2,0.5,probably not,-0.652816355
+1040,high,4,2,0.5,probably not,-0.652816355
+1041,high,4,2,0.5,probably not,-0.652816355
+1042,high,4,2,0.5,probably not,-0.652816355
+1043,high,4,2,0.5,probably not,-0.652816355
+1044,high,4,2,0.5,probably not,-0.652816355
+1048,high,4,2,0.5,probably not,-0.652816355
+1049,high,4,2,0.5,probably not,-0.652816355
+1050,high,4,2,0.5,probably not,-0.652816355
+1052,high,4,2,0.5,probably not,-0.652816355
+1054,high,4,2,0.5,probably not,-0.652816355
+1057,high,4,2,0.5,probably not,-0.652816355
+1059,high,4,2,0.5,probably not,-0.652816355
+1063,high,4,2,0.5,probably not,-0.652816355
+1064,high,4,2,0.5,probably not,-0.652816355
+1065,high,4,2,0.5,probably not,-0.652816355
+1067,high,4,2,0.5,probably not,-0.652816355
+1072,high,4,2,0.5,probably not,-0.652816355
+1073,high,4,2,0.5,probably not,-0.652816355
+1075,high,4,2,0.5,probably not,-0.652816355
+1079,high,4,2,0.5,probably not,-0.652816355
+1081,high,4,2,0.5,probably not,-0.652816355
+1083,high,4,2,0.5,probably not,-0.652816355
+1085,high,4,2,0.5,probably not,-0.652816355
+1087,high,4,2,0.5,probably not,-0.652816355
+1089,high,4,2,0.5,probably not,-0.652816355
+1090,high,4,2,0.5,probably not,-0.652816355
+1092,high,4,2,0.5,probably not,-0.652816355
+1093,high,4,2,0.5,probably not,-0.652816355
+1094,high,4,2,0.5,probably not,-0.652816355
+1099,high,4,2,0.5,probably not,-0.652816355
+1100,high,3,2,0.67,probably not,-0.661947668
+1104,high,3,2,0.67,probably not,-0.661947668
+1106,high,3,2,0.67,probably not,-0.661947668
+1109,high,3,2,0.67,probably not,-0.661947668
+1112,high,3,2,0.67,probably not,-0.661947668
+1113,high,3,2,0.67,probably not,-0.661947668
+1114,high,3,2,0.67,probably not,-0.661947668
+1117,high,3,2,0.67,probably not,-0.661947668
+1125,high,3,2,0.67,probably not,-0.661947668
+1126,high,3,2,0.67,probably not,-0.661947668
+1127,high,3,2,0.67,probably not,-0.661947668
+1128,high,3,2,0.67,probably not,-0.661947668
+1129,high,3,2,0.67,probably not,-0.661947668
+1131,high,3,2,0.67,probably not,-0.661947668
+1132,high,3,2,0.67,probably not,-0.661947668
+1134,high,3,2,0.67,probably not,-0.661947668
+1135,high,3,2,0.67,probably not,-0.661947668
+1137,high,3,2,0.67,probably not,-0.661947668
+1138,high,3,2,0.67,probably not,-0.661947668
+1140,high,3,2,0.67,probably not,-0.661947668
+1141,high,3,2,0.67,probably not,-0.661947668
+1142,high,3,2,0.67,probably not,-0.661947668
+1143,high,3,2,0.67,probably not,-0.661947668
+1145,high,3,2,0.67,probably not,-0.661947668
+1146,high,3,2,0.67,probably not,-0.661947668
+1152,high,3,2,0.67,probably not,-0.661947668
+1157,high,3,2,0.67,probably not,-0.661947668
+1158,high,3,2,0.67,probably not,-0.661947668
+1160,high,3,2,0.67,probably not,-0.661947668
+1165,high,3,2,0.67,probably not,-0.661947668
+1169,high,3,2,0.67,probably not,-0.661947668
+1171,high,3,2,0.67,probably not,-0.661947668
+1172,high,3,2,0.67,probably not,-0.661947668
+1173,high,3,2,0.67,probably not,-0.661947668
+1174,high,3,2,0.67,probably not,-0.661947668
+1175,high,3,2,0.67,probably not,-0.661947668
+1179,high,3,2,0.67,probably not,-0.661947668
+1180,high,3,2,0.67,probably not,-0.661947668
+1183,high,3,2,0.67,probably not,-0.661947668
+1184,high,3,2,0.67,probably not,-0.661947668
+1187,high,3,2,0.67,probably not,-0.661947668
+1188,high,3,2,0.67,probably not,-0.661947668
+1189,high,3,2,0.67,probably not,-0.661947668
+1190,high,3,2,0.67,probably not,-0.661947668
+1191,high,3,2,0.67,probably not,-0.661947668
+1192,high,3,2,0.67,probably not,-0.661947668
+1194,high,3,2,0.67,probably not,-0.661947668
+1195,high,3,2,0.67,probably not,-0.661947668
+1199,high,3,2,0.67,probably not,-0.661947668
+1200,high,4,3,0.75,probably not,-0.595015585
+1206,high,4,3,0.75,probably not,-0.595015585
+1209,high,4,3,0.75,probably not,-0.595015585
+1210,high,4,3,0.75,probably not,-0.595015585
+1212,high,4,3,0.75,probably not,-0.595015585
+1213,high,4,3,0.75,probably not,-0.595015585
+1214,high,4,3,0.75,probably not,-0.595015585
+1218,high,4,3,0.75,probably not,-0.595015585
+1220,high,4,3,0.75,probably not,-0.595015585
+1221,high,4,3,0.75,probably not,-0.595015585
+1225,high,4,3,0.75,probably not,-0.595015585
+1228,high,4,3,0.75,probably not,-0.595015585
+1229,high,4,3,0.75,probably not,-0.595015585
+1230,high,4,3,0.75,probably not,-0.595015585
+1232,high,4,3,0.75,probably not,-0.595015585
+1234,high,4,3,0.75,probably not,-0.595015585
+1236,high,4,3,0.75,probably not,-0.595015585
+1237,high,4,3,0.75,probably not,-0.595015585
+1238,high,4,3,0.75,probably not,-0.595015585
+1239,high,4,3,0.75,probably not,-0.595015585
+1242,high,4,3,0.75,probably not,-0.595015585
+1246,high,4,3,0.75,probably not,-0.595015585
+1247,high,4,3,0.75,probably not,-0.595015585
+1248,high,4,3,0.75,probably not,-0.595015585
+1249,high,4,3,0.75,probably not,-0.595015585
+1252,high,4,3,0.75,probably not,-0.595015585
+1253,high,4,3,0.75,probably not,-0.595015585
+1254,high,4,3,0.75,probably not,-0.595015585
+1255,high,4,3,0.75,probably not,-0.595015585
+1259,high,4,3,0.75,probably not,-0.595015585
+1260,high,4,3,0.75,probably not,-0.595015585
+1261,high,4,3,0.75,probably not,-0.595015585
+1262,high,4,3,0.75,probably not,-0.595015585
+1264,high,4,3,0.75,probably not,-0.595015585
+1265,high,4,3,0.75,probably not,-0.595015585
+1266,high,4,3,0.75,probably not,-0.595015585
+1269,high,4,3,0.75,probably not,-0.595015585
+1271,high,4,3,0.75,probably not,-0.595015585
+1273,high,4,3,0.75,probably not,-0.595015585
+1274,high,4,3,0.75,probably not,-0.595015585
+1276,high,4,3,0.75,probably not,-0.595015585
+1278,high,4,3,0.75,probably not,-0.595015585
+1280,high,4,3,0.75,probably not,-0.595015585
+1281,high,4,3,0.75,probably not,-0.595015585
+1282,high,4,3,0.75,probably not,-0.595015585
+1283,high,4,3,0.75,probably not,-0.595015585
+1285,high,4,3,0.75,probably not,-0.595015585
+1286,high,4,3,0.75,probably not,-0.595015585
+1291,high,4,3,0.75,probably not,-0.595015585
+1294,high,4,3,0.75,probably not,-0.595015585
+1296,high,4,3,0.75,probably not,-0.595015585
+1297,high,4,3,0.75,probably not,-0.595015585
+1298,high,4,3,0.75,probably not,-0.595015585
+1299,high,4,3,0.75,probably not,-0.595015585
+1303,high,2,2,1,probably not,-0.666455567
+1307,high,2,2,1,probably not,-0.666455567
+1308,high,2,2,1,probably not,-0.666455567
+1310,high,2,2,1,probably not,-0.666455567
+1311,high,2,2,1,probably not,-0.666455567
+1313,high,2,2,1,probably not,-0.666455567
+1314,high,2,2,1,probably not,-0.666455567
+1316,high,2,2,1,probably not,-0.666455567
+1320,high,2,2,1,probably not,-0.666455567
+1322,high,2,2,1,probably not,-0.666455567
+1323,high,2,2,1,probably not,-0.666455567
+1325,high,2,2,1,probably not,-0.666455567
+1327,high,2,2,1,probably not,-0.666455567
+1329,high,2,2,1,probably not,-0.666455567
+1331,high,2,2,1,probably not,-0.666455567
+1332,high,2,2,1,probably not,-0.666455567
+1333,high,2,2,1,probably not,-0.666455567
+1335,high,2,2,1,probably not,-0.666455567
+1338,high,2,2,1,probably not,-0.666455567
+1339,high,2,2,1,probably not,-0.666455567
+1342,high,2,2,1,probably not,-0.666455567
+1343,high,2,2,1,probably not,-0.666455567
+1344,high,2,2,1,probably not,-0.666455567
+1345,high,2,2,1,probably not,-0.666455567
+1346,high,2,2,1,probably not,-0.666455567
+1347,high,2,2,1,probably not,-0.666455567
+1348,high,2,2,1,probably not,-0.666455567
+1350,high,2,2,1,probably not,-0.666455567
+1353,high,2,2,1,probably not,-0.666455567
+1356,high,2,2,1,probably not,-0.666455567
+1357,high,2,2,1,probably not,-0.666455567
+1358,high,2,2,1,probably not,-0.666455567
+1361,high,2,2,1,probably not,-0.666455567
+1363,high,2,2,1,probably not,-0.666455567
+1364,high,2,2,1,probably not,-0.666455567
+1366,high,2,2,1,probably not,-0.666455567
+1368,high,2,2,1,probably not,-0.666455567
+1369,high,2,2,1,probably not,-0.666455567
+1370,high,2,2,1,probably not,-0.666455567
+1371,high,2,2,1,probably not,-0.666455567
+1374,high,2,2,1,probably not,-0.666455567
+1377,high,2,2,1,probably not,-0.666455567
+1382,high,2,2,1,probably not,-0.666455567
+1385,high,2,2,1,probably not,-0.666455567
+1387,high,2,2,1,probably not,-0.666455567
+1388,high,2,2,1,probably not,-0.666455567
+1389,high,2,2,1,probably not,-0.666455567
+1390,high,2,2,1,probably not,-0.666455567
+1392,high,2,2,1,probably not,-0.666455567
+1393,high,2,2,1,probably not,-0.666455567
+1398,high,2,2,1,probably not,-0.666455567
+134,low,8,2,0.25,possibly,-3.229468346
+206,low,9,3,0.33,possibly,-3.225140095
+208,low,9,3,0.33,possibly,-3.225140095
+239,low,9,3,0.33,possibly,-3.225140095
+246,low,9,3,0.33,possibly,-3.225140095
+278,low,9,3,0.33,possibly,-3.225140095
+291,low,9,3,0.33,possibly,-3.225140095
+292,low,9,3,0.33,possibly,-3.225140095
+309,low,8,4,0.5,possibly,-3.337869167
+356,low,8,4,0.5,possibly,-3.337869167
+361,low,8,4,0.5,possibly,-3.337869167
+396,low,8,4,0.5,possibly,-3.337869167
+407,low,9,6,0.67,possibly,-3.372074366
+430,low,9,6,0.67,possibly,-3.372074366
+458,low,9,6,0.67,possibly,-3.372074366
+471,low,9,6,0.67,possibly,-3.372074366
+560,low,8,6,0.75,possibly,-3.427083969
+572,low,8,6,0.75,possibly,-3.427083969
+588,low,8,6,0.75,possibly,-3.427083969
+623,low,10,10,1,possibly,-3.207967281
+640,low,10,10,1,possibly,-3.207967281
+642,low,10,10,1,possibly,-3.207967281
+644,low,10,10,1,possibly,-3.207967281
+645,low,10,10,1,possibly,-3.207967281
+646,low,10,10,1,possibly,-3.207967281
+650,low,10,10,1,possibly,-3.207967281
+698,low,10,10,1,possibly,-3.207967281
+825,high,4,1,0.25,possibly,-2.900402784
+828,high,4,1,0.25,possibly,-2.900402784
+841,high,4,1,0.25,possibly,-2.900402784
+852,high,4,1,0.25,possibly,-2.900402784
+875,high,4,1,0.25,possibly,-2.900402784
+909,high,3,1,0.33,possibly,-2.806927204
+911,high,3,1,0.33,possibly,-2.806927204
+914,high,3,1,0.33,possibly,-2.806927204
+938,high,3,1,0.33,possibly,-2.806927204
+943,high,3,1,0.33,possibly,-2.806927204
+946,high,3,1,0.33,possibly,-2.806927204
+961,high,3,1,0.33,possibly,-2.806927204
+973,high,3,1,0.33,possibly,-2.806927204
+976,high,3,1,0.33,possibly,-2.806927204
+977,high,3,1,0.33,possibly,-2.806927204
+1004,high,4,2,0.5,possibly,-3.020003796
+1047,high,4,2,0.5,possibly,-3.020003796
+1055,high,4,2,0.5,possibly,-3.020003796
+1056,high,4,2,0.5,possibly,-3.020003796
+1076,high,4,2,0.5,possibly,-3.020003796
+1102,high,3,2,0.67,possibly,-2.990072727
+1147,high,3,2,0.67,possibly,-2.990072727
+1223,high,4,3,0.75,possibly,-3.157515526
+1226,high,4,3,0.75,possibly,-3.157515526
+1243,high,4,3,0.75,possibly,-3.157515526
+1245,high,4,3,0.75,possibly,-3.157515526
+1301,high,2,2,1,possibly,-2.908643007
+1305,high,2,2,1,possibly,-2.908643007
+1319,high,2,2,1,possibly,-2.908643007
+1354,high,2,2,1,possibly,-2.908643007
+1384,high,2,2,1,possibly,-2.908643007
+1395,high,2,2,1,possibly,-2.908643007
+1399,high,2,2,1,possibly,-2.908643007
+41,low,10,0,0,probably,-3.595294952
+67,low,10,0,0,probably,-3.595294952
+72,low,10,0,0,probably,-3.595294952
+99,low,10,0,0,probably,-3.595294952
+106,low,8,2,0.25,probably,-3.495093346
+152,low,8,2,0.25,probably,-3.495093346
+156,low,8,2,0.25,probably,-3.495093346
+186,low,8,2,0.25,probably,-3.495093346
+197,low,8,2,0.25,probably,-3.495093346
+224,low,9,3,0.33,probably,-3.545452595
+254,low,9,3,0.33,probably,-3.545452595
+271,low,9,3,0.33,probably,-3.545452595
+282,low,9,3,0.33,probably,-3.545452595
+346,low,8,4,0.5,probably,-3.455056667
+355,low,8,4,0.5,probably,-3.455056667
+387,low,8,4,0.5,probably,-3.455056667
+389,low,8,4,0.5,probably,-3.455056667
+476,low,9,6,0.67,probably,-3.551761866
+481,low,9,6,0.67,probably,-3.551761866
+505,low,8,6,0.75,probably,-3.544271469
+507,low,8,6,0.75,probably,-3.544271469
+574,low,8,6,0.75,probably,-3.544271469
+601,low,10,10,1,probably,-2.739217281
+608,low,10,10,1,probably,-2.739217281
+615,low,10,10,1,probably,-2.739217281
+630,low,10,10,1,probably,-2.739217281
+635,low,10,10,1,probably,-2.739217281
+656,low,10,10,1,probably,-2.739217281
+682,low,10,10,1,probably,-2.739217281
+759,high,2,0,0,probably,-4.009085178
+863,high,4,1,0.25,probably,-3.244152784
+878,high,4,1,0.25,probably,-3.244152784
+904,high,3,1,0.33,probably,-3.322552204
+910,high,3,1,0.33,probably,-3.322552204
+912,high,3,1,0.33,probably,-3.322552204
+924,high,3,1,0.33,probably,-3.322552204
+928,high,3,1,0.33,probably,-3.322552204
+1120,high,3,2,0.67,probably,-3.435385227
+1155,high,3,2,0.67,probably,-3.435385227
+1159,high,3,2,0.67,probably,-3.435385227
+1222,high,4,3,0.75,probably,-3.415328026
+1224,high,4,3,0.75,probably,-3.415328026
+1240,high,4,3,0.75,probably,-3.415328026
+1267,high,4,3,0.75,probably,-3.415328026
+1292,high,4,3,0.75,probably,-3.415328026
+1373,high,2,2,1,probably,-3.455518007
+1383,high,2,2,1,probably,-3.455518007
+0,low,10,0,0,certainly,-2.470294952
+2,low,10,0,0,certainly,-2.470294952
+7,low,10,0,0,certainly,-2.470294952
+42,low,10,0,0,certainly,-2.470294952
+55,low,10,0,0,certainly,-2.470294952
+73,low,10,0,0,certainly,-2.470294952
+82,low,10,0,0,certainly,-2.470294952
+88,low,10,0,0,certainly,-2.470294952
+107,low,8,2,0.25,certainly,-2.284155846
+113,low,8,2,0.25,certainly,-2.284155846
+129,low,8,2,0.25,certainly,-2.284155846
+139,low,8,2,0.25,certainly,-2.284155846
+150,low,8,2,0.25,certainly,-2.284155846
+154,low,8,2,0.25,certainly,-2.284155846
+159,low,8,2,0.25,certainly,-2.284155846
+162,low,8,2,0.25,certainly,-2.284155846
+167,low,8,2,0.25,certainly,-2.284155846
+168,low,8,2,0.25,certainly,-2.284155846
+175,low,8,2,0.25,certainly,-2.284155846
+193,low,8,2,0.25,certainly,-2.284155846
+214,low,9,3,0.33,certainly,-2.490765095
+218,low,9,3,0.33,certainly,-2.490765095
+233,low,9,3,0.33,certainly,-2.490765095
+236,low,9,3,0.33,certainly,-2.490765095
+268,low,9,3,0.33,certainly,-2.490765095
+283,low,9,3,0.33,certainly,-2.490765095
+289,low,9,3,0.33,certainly,-2.490765095
+301,low,8,4,0.5,certainly,-2.330056667
+314,low,8,4,0.5,certainly,-2.330056667
+318,low,8,4,0.5,certainly,-2.330056667
+321,low,8,4,0.5,certainly,-2.330056667
+331,low,8,4,0.5,certainly,-2.330056667
+342,low,8,4,0.5,certainly,-2.330056667
+382,low,8,4,0.5,certainly,-2.330056667
+394,low,8,4,0.5,certainly,-2.330056667
+406,low,9,6,0.67,certainly,-2.497074366
+408,low,9,6,0.67,certainly,-2.497074366
+417,low,9,6,0.67,certainly,-2.497074366
+423,low,9,6,0.67,certainly,-2.497074366
+427,low,9,6,0.67,certainly,-2.497074366
+469,low,9,6,0.67,certainly,-2.497074366
+470,low,9,6,0.67,certainly,-2.497074366
+512,low,8,6,0.75,certainly,-2.341146469
+515,low,8,6,0.75,certainly,-2.341146469
+521,low,8,6,0.75,certainly,-2.341146469
+526,low,8,6,0.75,certainly,-2.341146469
+537,low,8,6,0.75,certainly,-2.341146469
+540,low,8,6,0.75,certainly,-2.341146469
+543,low,8,6,0.75,certainly,-2.341146469
+546,low,8,6,0.75,certainly,-2.341146469
+548,low,8,6,0.75,certainly,-2.341146469
+555,low,8,6,0.75,certainly,-2.341146469
+571,low,8,6,0.75,certainly,-2.341146469
+581,low,8,6,0.75,certainly,-2.341146469
+598,low,8,6,0.75,certainly,-2.341146469
+605,low,10,10,1,certainly,-2.020467281
+610,low,10,10,1,certainly,-2.020467281
+612,low,10,10,1,certainly,-2.020467281
+613,low,10,10,1,certainly,-2.020467281
+625,low,10,10,1,certainly,-2.020467281
+638,low,10,10,1,certainly,-2.020467281
+651,low,10,10,1,certainly,-2.020467281
+659,low,10,10,1,certainly,-2.020467281
+662,low,10,10,1,certainly,-2.020467281
+669,low,10,10,1,certainly,-2.020467281
+673,low,10,10,1,certainly,-2.020467281
+675,low,10,10,1,certainly,-2.020467281
+677,low,10,10,1,certainly,-2.020467281
+679,low,10,10,1,certainly,-2.020467281
+683,low,10,10,1,certainly,-2.020467281
+686,low,10,10,1,certainly,-2.020467281
+690,low,10,10,1,certainly,-2.020467281
+712,high,2,0,0,certainly,-2.70439744
+717,high,2,0,0,certainly,-2.70439744
+756,high,2,0,0,certainly,-2.70439744
+761,high,2,0,0,certainly,-2.70439744
+768,high,2,0,0,certainly,-2.70439744
+784,high,2,0,0,certainly,-2.70439744
+796,high,2,0,0,certainly,-2.70439744
+804,high,4,1,0.25,certainly,-2.228527784
+806,high,4,1,0.25,certainly,-2.228527784
+820,high,4,1,0.25,certainly,-2.228527784
+821,high,4,1,0.25,certainly,-2.228527784
+829,high,4,1,0.25,certainly,-2.228527784
+830,high,4,1,0.25,certainly,-2.228527784
+845,high,4,1,0.25,certainly,-2.228527784
+848,high,4,1,0.25,certainly,-2.228527784
+867,high,4,1,0.25,certainly,-2.228527784
+902,high,3,1,0.33,certainly,-2.228802204
+919,high,3,1,0.33,certainly,-2.228802204
+920,high,3,1,0.33,certainly,-2.228802204
+947,high,3,1,0.33,certainly,-2.228802204
+951,high,3,1,0.33,certainly,-2.228802204
+964,high,3,1,0.33,certainly,-2.228802204
+974,high,3,1,0.33,certainly,-2.228802204
+978,high,3,1,0.33,certainly,-2.228802204
+980,high,3,1,0.33,certainly,-2.228802204
+989,high,3,1,0.33,certainly,-2.228802204
+991,high,3,1,0.33,certainly,-2.228802204
+993,high,3,1,0.33,certainly,-2.228802204
+1000,high,4,2,0.5,certainly,-2.340316296
+1009,high,4,2,0.5,certainly,-2.340316296
+1013,high,4,2,0.5,certainly,-2.340316296
+1016,high,4,2,0.5,certainly,-2.340316296
+1027,high,4,2,0.5,certainly,-2.340316296
+1028,high,4,2,0.5,certainly,-2.340316296
+1046,high,4,2,0.5,certainly,-2.340316296
+1061,high,4,2,0.5,certainly,-2.340316296
+1066,high,4,2,0.5,certainly,-2.340316296
+1070,high,4,2,0.5,certainly,-2.340316296
+1080,high,4,2,0.5,certainly,-2.340316296
+1082,high,4,2,0.5,certainly,-2.340316296
+1086,high,4,2,0.5,certainly,-2.340316296
+1088,high,4,2,0.5,certainly,-2.340316296
+1098,high,4,2,0.5,certainly,-2.340316296
+1110,high,3,2,0.67,certainly,-2.365072727
+1123,high,3,2,0.67,certainly,-2.365072727
+1139,high,3,2,0.67,certainly,-2.365072727
+1149,high,3,2,0.67,certainly,-2.365072727
+1153,high,3,2,0.67,certainly,-2.365072727
+1154,high,3,2,0.67,certainly,-2.365072727
+1177,high,3,2,0.67,certainly,-2.365072727
+1182,high,3,2,0.67,certainly,-2.365072727
+1185,high,3,2,0.67,certainly,-2.365072727
+1197,high,3,2,0.67,certainly,-2.365072727
+1201,high,4,3,0.75,certainly,-2.423140526
+1203,high,4,3,0.75,certainly,-2.423140526
+1205,high,4,3,0.75,certainly,-2.423140526
+1215,high,4,3,0.75,certainly,-2.423140526
+1216,high,4,3,0.75,certainly,-2.423140526
+1233,high,4,3,0.75,certainly,-2.423140526
+1251,high,4,3,0.75,certainly,-2.423140526
+1277,high,4,3,0.75,certainly,-2.423140526
+1284,high,4,3,0.75,certainly,-2.423140526
+1289,high,4,3,0.75,certainly,-2.423140526
+1304,high,2,2,1,certainly,-2.416455507
+1336,high,2,2,1,certainly,-2.416455507
+1337,high,2,2,1,certainly,-2.416455507
+1349,high,2,2,1,certainly,-2.416455507
+1352,high,2,2,1,certainly,-2.416455507
+1359,high,2,2,1,certainly,-2.416455507
+1375,high,2,2,1,certainly,-2.416455507
